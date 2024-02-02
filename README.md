@@ -5,13 +5,12 @@
 - <b>Azure / Cloud Cybersecurity Projects</b>
   - [Creating a live SOC / Honeynet in Azure](https://github.com/LawEsan/Azure-SOC)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>🎓 Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [CompTIA Security+](https://www.credly.com/badges/21985456-0afe-4dd9-89f6-1a188374ee21/public_url)
+- [CompTIA A+](https://www.credly.com/badges/c01ac5b7-6630-4198-b0a1-3078919c8cd2/public_url)
+- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/d7e19014-71e6-4234-881a-c54d3ad1212a/public_url)
+- [ISTQB® Certified Software Tester](http://scr.istqb.org/?name=&number=00529296&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=)
 
 <h2> 🤳 Connect with me:</h2>
 
