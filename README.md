@@ -4,6 +4,7 @@
 
 - <b>Azure / Cloud Cybersecurity Projects</b>
   - [Creating a live SOC / Honeynet in Azure](https://github.com/LawEsan/Azure-SOC)
+  - [Building a Vulnerability Management Scanner](https://github.com/LawEsan/VulnerabilityScanner)
 
 <h2>🎓 Certifications</h2>
 
