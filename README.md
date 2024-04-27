@@ -4,6 +4,7 @@
 
 - <b>Azure / Cloud Cybersecurity Projects</b>
   - [Creating a live SOC / Honeynet in Azure](https://github.com/LawEsan/Azure-SOC)
+- <b>Greenbone OpenVAS Cybersecurity Project
   - [Building a Vulnerability Management Scanner](https://github.com/LawEsan/VulnerabilityScanner)
 
 <h2>🎓 Certifications</h2>
@@ -14,7 +15,7 @@
 - [Microsoft® Certified: Azure Fundamentals](https://www.credly.com/badges/d7e19014-71e6-4234-881a-c54d3ad1212a/public_url)
 - [ISTQB® Certified Software Tester](http://scr.istqb.org/?name=&number=00529296&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳🏿 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
