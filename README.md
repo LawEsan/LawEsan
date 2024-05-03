@@ -2,8 +2,10 @@
 
 <h2>👨🏿‍💻 My Projects:</h2>
 
-- <b>Azure / Cloud Cybersecurity Projects</b>
+- <b>Azure / Cloud Cybersecurity Project</b>
   - [Creating a live SOC / Honeynet in Azure](https://github.com/LawEsan/Azure-SOC)
+- <b>Active Directory Cybersecurity Project
+  - [Configuring a Windows server & Active Directory with PowerShell](https://github.com/LawEsan/Active-Directory)
 - <b>Greenbone OpenVAS Cybersecurity Project
   - [Building a Vulnerability Management Scanner](https://github.com/LawEsan/VulnerabilityScanner)
 
