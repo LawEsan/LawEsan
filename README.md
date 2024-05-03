@@ -4,9 +4,9 @@
 
 - <b>Azure / Cloud Cybersecurity Project</b>
   - [Creating a live SOC / Honeynet in Azure](https://github.com/LawEsan/Azure-SOC)
-- <b>Active Directory Cybersecurity Project
+- <b>Active Directory Cybersecurity Project</b>
   - [Configuring a Windows server & Active Directory with PowerShell](https://github.com/LawEsan/Active-Directory)
-- <b>Greenbone OpenVAS Cybersecurity Project
+- <b>Greenbone OpenVAS Cybersecurity Project</b>
   - [Building a Vulnerability Management Scanner](https://github.com/LawEsan/VulnerabilityScanner)
 
 <h2>🎓 Certifications</h2>
