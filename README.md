@@ -1,13 +1,13 @@
 <h1>Hi, I'm Law! Your Cybersecurity Engineer</h1>
 
-<h2>👨🏿‍💻 My Projects:</h2>
+<h2>👨🏿‍💻 My Cybersecurity Projects:</h2>
 
-- <b>Azure / Cloud Cybersecurity Project</b>
+- <b>Azure / Cloud</b>
   - [Creating a live SOC / Honeynet in Azure](https://github.com/LawEsan/Azure-SOC)
-- <b>Active Directory Cybersecurity Project</b>
-  - [Configuring a Windows server & Active Directory with PowerShell](https://github.com/LawEsan/Active-Directory)
-- <b>Greenbone OpenVAS Cybersecurity Project</b>
-  - [Building a Vulnerability Management Scanner](https://github.com/LawEsan/VulnerabilityScanner)
+- <b>Active Directory</b>
+  - [Building a Windows server & Active Directory with PowerShell](https://github.com/LawEsan/Active-Directory)
+- <b>Greenbone Vulnerability Management (OpenVAS)</b>
+  - [Configuring an Open Vulnerability Assessment Scanner](https://github.com/LawEsan/VulnerabilityScanner)
 
 <h2>🎓 Certifications</h2>
 
