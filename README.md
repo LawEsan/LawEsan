@@ -5,7 +5,7 @@
 - <b>Azure / Cloud</b>
   - [Creating a live SOC / Honeynet in Azure](https://github.com/LawEsan/Azure-SOC)
 - <b>Active Directory</b>
-  - [Building a Windows server & Active Directory with PowerShell](https://github.com/LawEsan/Active-Directory)
+  - [Building a Windows Server & Active Directory with PowerShell](https://github.com/LawEsan/Active-Directory)
 - <b>Greenbone Vulnerability Management (OpenVAS)</b>
   - [Configuring an Open Vulnerability Assessment Scanner](https://github.com/LawEsan/VulnerabilityScanner)
 
