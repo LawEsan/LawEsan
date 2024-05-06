@@ -7,7 +7,7 @@
 - <b>Active Directory</b>
   - [Building a Windows Server to install Active Directory with PowerShell](https://github.com/LawEsan/Active-Directory)
 - <b>Wireshark</b>
-  - [Conducting a network scan to sniff usernames and passwords](https://github.com/LawEsan/Wireshark)
+  - [Executing a network scan to sniff usernames and passwords](https://github.com/LawEsan/Wireshark)
 - <b>Greenbone Vulnerability Management (OpenVAS)</b>
   - [Configuring an Open Vulnerability Assessment Scanner](https://github.com/LawEsan/VulnerabilityScanner)
 
