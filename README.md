@@ -7,6 +7,8 @@
   - [Performing brute force attacks over SSH for logging and SecOps](https://github.com/LawEsan/Brute-Force-Attack-SSH)
 - <b>Active Directory</b>
   - [Creating a Windows Server and installing Active Directory with PowerShell](https://github.com/LawEsan/Active-Directory)
+- <b>PowerShell</b>
+  - [Coding a File Integrity Monitor](https://github.com/LawEsan/PowerShell-FIM)
 - <b>Wireshark</b>
   - [Executing a network scan to sniff usernames and passwords](https://github.com/LawEsan/Wireshark)
 - <b>Greenbone Vulnerability Management (OpenVAS)</b>
