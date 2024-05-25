@@ -1,6 +1,6 @@
-<h1>Hi, I'm Law! Your Cybersecurity Engineer</h1>
+<h1>Hi, I'm Law! Your Cyber Security Engineer</h1>
 
-<h2>👨🏿‍💻 My Cybersecurity Projects:</h2>
+<h2>👨🏿‍💻 My Cyber Security Projects:</h2>
 
 - <b>Azure / Cloud</b>
   - [Building a live SOC / Honeynet in Azure](https://github.com/LawEsan/Azure-SOC)
@@ -16,7 +16,7 @@
 
 <h2>🎓 Certifications</h2>
 
-- [Cybersecurity SOC Analyst](https://app.kajabi.com/certificates/c8921abb)
+- [Cyber Security SOC Analyst](https://app.kajabi.com/certificates/c8921abb)
 - [CompTIA® Security+](https://www.credly.com/badges/21985456-0afe-4dd9-89f6-1a188374ee21/public_url)
 - [CompTIA® A+](https://www.credly.com/badges/c01ac5b7-6630-4198-b0a1-3078919c8cd2/public_url)
 - [Microsoft® Certified: Azure Fundamentals](https://www.credly.com/badges/d7e19014-71e6-4234-881a-c54d3ad1212a/public_url)
