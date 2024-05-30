@@ -6,7 +6,7 @@
   - [Building a live SOC / Honeynet in Azure](https://github.com/LawEsan/Azure-SOC)
   - [Performing brute force attacks over SSH for logging and SecOps](https://github.com/LawEsan/Brute-Force-Attack-SSH)
 - <b>Active Directory</b>
-  - [Creating a Windows Server and installing Active Directory with PowerShell](https://github.com/LawEsan/Active-Directory)
+  - [Installing Active Directory and adding 1000+ users with PowerShell](https://github.com/LawEsan/Active-Directory)
 - <b>PowerShell</b>
   - [Coding a File Integrity Monitor](https://github.com/LawEsan/PowerShell-FIM)
 - <b>Wireshark</b>
