@@ -4,7 +4,7 @@
 
 - <b>Azure / Cloud</b>
   - [Building a live SOC / Honeynet in Azure](https://github.com/LawEsan/Azure-SOC)
-  - [Performing brute force attacks over SSH for logging and SecOps](https://github.com/LawEsan/Brute-Force-Attack-SSH)
+  - [Performing brute force attacks to exploit vulnerabilities in SSH](https://github.com/LawEsan/Brute-Force-Attack-SSH)
 - <b>Active Directory</b>
   - [Installing Active Directory and adding 1000+ users with PowerShell](https://github.com/LawEsan/Active-Directory)
 - <b>PowerShell</b>
